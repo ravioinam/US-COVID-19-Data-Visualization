@@ -1,8 +1,9 @@
 # US COVID-19 Data Visualization
  
-The data used for this visualization is the clean dataset from ![US CSSE DATASET](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+The data used for this visualization is based on the John Hopkins University Center for Systems Science and Engineering (JHU CSSE). The data repository is available at [this GitHub data repository](https://github.com/CSSEGISandData/COVID-19)
 
-![Confirmed Cases in US](
+
+![Confirmed Cases in US](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/cases.png?raw=TRUE)
  
  
  
