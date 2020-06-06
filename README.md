@@ -5,8 +5,11 @@ The data used for this visualization is based on the John Hopkins University Cen
 This visualization only focus on the cases in the US. First the data was cleaned up and assigned the abbrebiated names of all the states in the US, so that we can plot the data on the map. Additional data cleanup and exploration was conducted. 
 
 Checking the data:
+
 ![Data](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/State%20wise%20top%205.png?raw=TRUE)
+
 How many COVID-19 cases in the US so far:
+
 ![Cases in US](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/cases.png?raw=TRUE)
 ![Cases over time](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/case%20over%20time.png?raw=TRUE)
 ![Cases over time on map](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/case%20over%20time%20on%20map.png?raw=TRUE)
