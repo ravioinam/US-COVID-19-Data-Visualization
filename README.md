@@ -2,8 +2,28 @@
  
 The data used for this visualization is based on the John Hopkins University Center for Systems Science and Engineering (JHU CSSE). The data repository is available at [this GitHub data repository](https://github.com/CSSEGISandData/COVID-19)
 
+This visualization only focus on the cases in the US. First the data was cleaned up and assigned the abbrebiated names of all the states in the US, so that we can plot the data on the map. Additional data cleanup and exploration was conducted. 
 
-![Confirmed Cases in US](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/cases.png?raw=TRUE)
+Checking the data:
+![Data table](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/State wise top 5.png?raw=TRUE)
+
+How many COVID-19 cases in the US so far:
+
+![Cases in US](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/cases.png?raw=TRUE)
+
+How many cases over time :
+
+![Cases over time](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/case over time.png?raw=TRUE)
+
+Cases over time on Map:
+![Cases over time on map](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/case over time on map.png?raw=TRUE)
+
+Number of confirmed cases by state:
+![Confirmed by state](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/Confirmed case by state.png?raw=TRUE)
+
+Number of deaths by state:
+![Confirmed by state](https://github.com/ravioinam/US-COVID-19-Data-Visualization/blob/master/deadthse by state.png?raw=TRUE)
+
  
  
  
