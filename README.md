@@ -1,4 +1,5 @@
 # US COVID-19 Data Visualization
+(last updated 6 /6 / 2020)
  
 The data used for this visualization is based on the John Hopkins University Center for Systems Science and Engineering (JHU CSSE). The data repository is available at [this GitHub data repository](https://github.com/CSSEGISandData/COVID-19)
 
